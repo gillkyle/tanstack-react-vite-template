@@ -18,7 +18,7 @@ This is a lightweight React starter template using [Vite](https://vitejs.dev), [
 
 It is deployed with the memory efficient [Caddy](https://caddyserver.com/) web server, and can be set up on [Railway](https://railway.app) in a single click.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/...)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/EF4fed?referralCode=1Apk1r)
 
 ## 💁‍♀️ Getting Started
 
